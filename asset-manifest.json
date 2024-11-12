@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.b6cab5b7.css",
-    "main.js": "/wedding/static/js/main.61b1be07.js",
+    "main.css": "/wedding/static/css/main.4222d2cb.css",
+    "main.js": "/wedding/static/js/main.133a8600.js",
     "static/js/453.ec03d368.chunk.js": "/wedding/static/js/453.ec03d368.chunk.js",
     "static/media/배경이미지.jpg": "/wedding/static/media/배경이미지.99d0df64b795064afdd3.jpg",
     "static/media/SSRockRegular_otf.otf": "/wedding/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
@@ -10,12 +10,12 @@
     "static/media/배경in.jpg": "/wedding/static/media/배경in.8d2404a1d569f5e55506.jpg",
     "static/media/배경out.jpg": "/wedding/static/media/배경out.da65ad7556b57fa8e160.jpg",
     "index.html": "/wedding/index.html",
-    "main.b6cab5b7.css.map": "/wedding/static/css/main.b6cab5b7.css.map",
-    "main.61b1be07.js.map": "/wedding/static/js/main.61b1be07.js.map",
+    "main.4222d2cb.css.map": "/wedding/static/css/main.4222d2cb.css.map",
+    "main.133a8600.js.map": "/wedding/static/js/main.133a8600.js.map",
     "453.ec03d368.chunk.js.map": "/wedding/static/js/453.ec03d368.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6cab5b7.css",
-    "static/js/main.61b1be07.js"
+    "static/css/main.4222d2cb.css",
+    "static/js/main.133a8600.js"
   ]
 }
