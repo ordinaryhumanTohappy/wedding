@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding/static/css/main.54c2ecb9.css",
-    "main.js": "/wedding/static/js/main.4448f3ed.js",
+    "main.js": "/wedding/static/js/main.4bab77bf.js",
     "static/js/453.ec03d368.chunk.js": "/wedding/static/js/453.ec03d368.chunk.js",
     "static/media/SSRockRegular_otf.otf": "/wedding/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
     "static/media/SSRockRegular.ttf": "/wedding/static/media/SSRockRegular.f7c0f26d2e1b91e7fdd7.ttf",
@@ -9,16 +9,17 @@
     "static/media/사진_2.jpg": "/wedding/static/media/사진_2.a6beaf6a197974f55491.jpg",
     "static/media/사진_1.jpg": "/wedding/static/media/사진_1.f5012d85d5871ae1f3a6.jpg",
     "static/media/배경.jpg": "/wedding/static/media/배경.89cef07525cbbfa15bd9.jpg",
+    "static/media/약도.jpg": "/wedding/static/media/약도.50c748717fbec0ccb753.jpg",
     "static/media/kakaomap_vertical_ko.png": "/wedding/static/media/kakaomap_vertical_ko.13f6a88699555cd35f0f.png",
     "static/media/Map_Service_Icon.png": "/wedding/static/media/Map_Service_Icon.1c51f19ae57060877d58.png",
     "static/media/tmap_icon.jpg": "/wedding/static/media/tmap_icon.ef28f9aafddb29671863.jpg",
     "index.html": "/wedding/index.html",
     "main.54c2ecb9.css.map": "/wedding/static/css/main.54c2ecb9.css.map",
-    "main.4448f3ed.js.map": "/wedding/static/js/main.4448f3ed.js.map",
+    "main.4bab77bf.js.map": "/wedding/static/js/main.4bab77bf.js.map",
     "453.ec03d368.chunk.js.map": "/wedding/static/js/453.ec03d368.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54c2ecb9.css",
-    "static/js/main.4448f3ed.js"
+    "static/js/main.4bab77bf.js"
   ]
 }
