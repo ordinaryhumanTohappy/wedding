@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.a088fd1e.css",
-    "main.js": "/wedding/static/js/main.a522c24e.js",
-    "static/js/453.ec03d368.chunk.js": "/wedding/static/js/453.ec03d368.chunk.js",
-    "static/media/SSRockRegular_otf.otf": "/wedding/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
-    "static/media/SSRockRegular.ttf": "/wedding/static/media/SSRockRegular.f7c0f26d2e1b91e7fdd7.ttf",
-    "static/media/MaplestoryBold.ttf": "/wedding/static/media/MaplestoryBold.e39287220e971b277c0e.ttf",
-    "static/media/MaplestoryLight.ttf": "/wedding/static/media/MaplestoryLight.9d9497585053c96c8082.ttf",
-    "static/media/MaplestoryOTFBold.otf": "/wedding/static/media/MaplestoryOTFBold.914d802a2a94c180d332.otf",
-    "static/media/MaplestoryOTFLight.otf": "/wedding/static/media/MaplestoryOTFLight.d2110cb8b8de5224831e.otf",
-    "static/media/사진_2.jpg": "/wedding/static/media/사진_2.a6beaf6a197974f55491.jpg",
-    "static/media/사진_1.jpg": "/wedding/static/media/사진_1.f5012d85d5871ae1f3a6.jpg",
-    "static/media/배경.jpg": "/wedding/static/media/배경.89cef07525cbbfa15bd9.jpg",
-    "static/media/약도.jpg": "/wedding/static/media/약도.50c748717fbec0ccb753.jpg",
-    "static/media/kakaomap_vertical_ko.png": "/wedding/static/media/kakaomap_vertical_ko.13f6a88699555cd35f0f.png",
-    "static/media/Map_Service_Icon.png": "/wedding/static/media/Map_Service_Icon.1c51f19ae57060877d58.png",
-    "static/media/tmap_icon.jpg": "/wedding/static/media/tmap_icon.ef28f9aafddb29671863.jpg",
-    "index.html": "/wedding/index.html",
-    "main.a088fd1e.css.map": "/wedding/static/css/main.a088fd1e.css.map",
-    "main.a522c24e.js.map": "/wedding/static/js/main.a522c24e.js.map",
-    "453.ec03d368.chunk.js.map": "/wedding/static/js/453.ec03d368.chunk.js.map"
+    "main.css": "/testweddling/static/css/main.98e94fc2.css",
+    "main.js": "/testweddling/static/js/main.71e95b82.js",
+    "static/js/453.ec03d368.chunk.js": "/testweddling/static/js/453.ec03d368.chunk.js",
+    "static/media/SSRockRegular_otf.otf": "/testweddling/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
+    "static/media/SSRockRegular.ttf": "/testweddling/static/media/SSRockRegular.f7c0f26d2e1b91e7fdd7.ttf",
+    "static/media/MaplestoryBold.ttf": "/testweddling/static/media/MaplestoryBold.e39287220e971b277c0e.ttf",
+    "static/media/MaplestoryLight.ttf": "/testweddling/static/media/MaplestoryLight.9d9497585053c96c8082.ttf",
+    "static/media/MaplestoryOTFBold.otf": "/testweddling/static/media/MaplestoryOTFBold.914d802a2a94c180d332.otf",
+    "static/media/MaplestoryOTFLight.otf": "/testweddling/static/media/MaplestoryOTFLight.d2110cb8b8de5224831e.otf",
+    "static/media/사진_2.jpg": "/testweddling/static/media/사진_2.a6beaf6a197974f55491.jpg",
+    "static/media/사진_1.jpg": "/testweddling/static/media/사진_1.f5012d85d5871ae1f3a6.jpg",
+    "static/media/배경.jpg": "/testweddling/static/media/배경.89cef07525cbbfa15bd9.jpg",
+    "static/media/약도.jpg": "/testweddling/static/media/약도.50c748717fbec0ccb753.jpg",
+    "static/media/kakaomap_vertical_ko.png": "/testweddling/static/media/kakaomap_vertical_ko.13f6a88699555cd35f0f.png",
+    "static/media/Map_Service_Icon.png": "/testweddling/static/media/Map_Service_Icon.1c51f19ae57060877d58.png",
+    "static/media/tmap_icon.jpg": "/testweddling/static/media/tmap_icon.ef28f9aafddb29671863.jpg",
+    "index.html": "/testweddling/index.html",
+    "main.98e94fc2.css.map": "/testweddling/static/css/main.98e94fc2.css.map",
+    "main.71e95b82.js.map": "/testweddling/static/js/main.71e95b82.js.map",
+    "453.ec03d368.chunk.js.map": "/testweddling/static/js/453.ec03d368.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a088fd1e.css",
-    "static/js/main.a522c24e.js"
+    "static/css/main.98e94fc2.css",
+    "static/js/main.71e95b82.js"
   ]
 }
