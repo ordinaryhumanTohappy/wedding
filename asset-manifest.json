@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.a9e47ecd.css",
-    "main.js": "/wedding/static/js/main.a02521e1.js",
+    "main.css": "/wedding/static/css/main.9f40b2e5.css",
+    "main.js": "/wedding/static/js/main.b85a7302.js",
     "static/js/453.ec03d368.chunk.js": "/wedding/static/js/453.ec03d368.chunk.js",
     "static/media/SSRockRegular_otf.otf": "/wedding/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
     "static/media/SSRockRegular.ttf": "/wedding/static/media/SSRockRegular.f7c0f26d2e1b91e7fdd7.ttf",
@@ -9,6 +9,7 @@
     "static/media/MaplestoryLight.ttf": "/wedding/static/media/MaplestoryLight.9d9497585053c96c8082.ttf",
     "static/media/MaplestoryOTFBold.otf": "/wedding/static/media/MaplestoryOTFBold.914d802a2a94c180d332.otf",
     "static/media/MaplestoryOTFLight.otf": "/wedding/static/media/MaplestoryOTFLight.d2110cb8b8de5224831e.otf",
+    "static/media/배경이미지.jpg": "/wedding/static/media/배경이미지.435eb088c75600d11021.jpg",
     "static/media/사진_2.jpg": "/wedding/static/media/사진_2.a6beaf6a197974f55491.jpg",
     "static/media/사진_1.jpg": "/wedding/static/media/사진_1.f5012d85d5871ae1f3a6.jpg",
     "static/media/배경.jpg": "/wedding/static/media/배경.89cef07525cbbfa15bd9.jpg",
@@ -17,12 +18,12 @@
     "static/media/Map_Service_Icon.png": "/wedding/static/media/Map_Service_Icon.1c51f19ae57060877d58.png",
     "static/media/tmap_icon.jpg": "/wedding/static/media/tmap_icon.ef28f9aafddb29671863.jpg",
     "index.html": "/wedding/index.html",
-    "main.a9e47ecd.css.map": "/wedding/static/css/main.a9e47ecd.css.map",
-    "main.a02521e1.js.map": "/wedding/static/js/main.a02521e1.js.map",
+    "main.9f40b2e5.css.map": "/wedding/static/css/main.9f40b2e5.css.map",
+    "main.b85a7302.js.map": "/wedding/static/js/main.b85a7302.js.map",
     "453.ec03d368.chunk.js.map": "/wedding/static/js/453.ec03d368.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9e47ecd.css",
-    "static/js/main.a02521e1.js"
+    "static/css/main.9f40b2e5.css",
+    "static/js/main.b85a7302.js"
   ]
 }
