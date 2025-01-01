@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wedding/static/css/main.f0e27e81.css",
-    "main.js": "/wedding/static/js/main.a0f4d0fd.js",
+    "main.css": "/wedding/static/css/main.65f96d92.css",
+    "main.js": "/wedding/static/js/main.bfbe5eb3.js",
     "static/js/453.ec03d368.chunk.js": "/wedding/static/js/453.ec03d368.chunk.js",
     "static/media/SSRockRegular_otf.otf": "/wedding/static/media/SSRockRegular_otf.3019875382b71ee6000e.otf",
     "static/media/SSRockRegular.ttf": "/wedding/static/media/SSRockRegular.f7c0f26d2e1b91e7fdd7.ttf",
@@ -16,27 +16,39 @@
     "static/media/3_웨딩.jpg": "/wedding/static/media/3_웨딩.3730f15d3021f3851da8.jpg",
     "static/media/4_웨딩.jpg": "/wedding/static/media/4_웨딩.0a3c5c0833af5d693d50.jpg",
     "static/media/1_웨딩.jpg": "/wedding/static/media/1_웨딩.0bf39ae650a33edf51d3.jpg",
+    "static/media/7.jpg": "/wedding/static/media/7.421aee89a2378ad010c0.jpg",
     "static/media/12_베트남.jpg": "/wedding/static/media/12_베트남.3ed2da05bebea4c3b344.jpg",
+    "static/media/8.jpg": "/wedding/static/media/8.0f24c153aed4a7dd6f24.jpg",
+    "static/media/12.jpg": "/wedding/static/media/12.8e30fe6054f724368371.jpg",
+    "static/media/9.jpg": "/wedding/static/media/9.8e30fe6054f724368371.jpg",
+    "static/media/4.jpg": "/wedding/static/media/4.a52b6995f49aacd378c9.jpg",
+    "static/media/10.jpg": "/wedding/static/media/10.6643f7704a0eb22917ca.jpg",
+    "static/media/11.jpg": "/wedding/static/media/11.eda884d066aadc4f3922.jpg",
+    "static/media/6.jpg": "/wedding/static/media/6.eda884d066aadc4f3922.jpg",
     "static/media/14_베트남.jpg": "/wedding/static/media/14_베트남.ab0083a6a7c62602bc52.jpg",
     "static/media/13_베트남.jpg": "/wedding/static/media/13_베트남.d1202965467ed70e792c.jpg",
     "static/media/5_웨딩.jpg": "/wedding/static/media/5_웨딩.d532f0c0bc2fd01aa30c.jpg",
     "static/media/사진_1.jpg": "/wedding/static/media/사진_1.f5012d85d5871ae1f3a6.jpg",
+    "static/media/3.jpg": "/wedding/static/media/3.fe6dea95db58326e6751.jpg",
     "static/media/11_베트남.jpg": "/wedding/static/media/11_베트남.6826c29468cea9a30393.jpg",
     "static/media/16_베트남.jpg": "/wedding/static/media/16_베트남.56df64434af318b8ae20.jpg",
+    "static/media/5.jpg": "/wedding/static/media/5.61bf87f7a6a16b5296f9.jpg",
+    "static/media/2.jpg": "/wedding/static/media/2.5aea1525f559d2736b4b.jpg",
     "static/media/15_베트남.jpg": "/wedding/static/media/15_베트남.98fb8c857dc2d40d24dd.jpg",
     "static/media/배경.jpg": "/wedding/static/media/배경.89cef07525cbbfa15bd9.jpg",
+    "static/media/1.jpg": "/wedding/static/media/1.82b79062fed5e1ef4662.jpg",
     "static/media/반지_실물.jpg": "/wedding/static/media/반지_실물.c0a3c4fff46e8483d9fc.jpg",
     "static/media/약도.jpg": "/wedding/static/media/약도.50c748717fbec0ccb753.jpg",
     "static/media/kakaomap_vertical_ko.png": "/wedding/static/media/kakaomap_vertical_ko.13f6a88699555cd35f0f.png",
     "static/media/Map_Service_Icon.png": "/wedding/static/media/Map_Service_Icon.1c51f19ae57060877d58.png",
     "static/media/tmap_icon.jpg": "/wedding/static/media/tmap_icon.ef28f9aafddb29671863.jpg",
     "index.html": "/wedding/index.html",
-    "main.f0e27e81.css.map": "/wedding/static/css/main.f0e27e81.css.map",
-    "main.a0f4d0fd.js.map": "/wedding/static/js/main.a0f4d0fd.js.map",
+    "main.65f96d92.css.map": "/wedding/static/css/main.65f96d92.css.map",
+    "main.bfbe5eb3.js.map": "/wedding/static/js/main.bfbe5eb3.js.map",
     "453.ec03d368.chunk.js.map": "/wedding/static/js/453.ec03d368.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0e27e81.css",
-    "static/js/main.a0f4d0fd.js"
+    "static/css/main.65f96d92.css",
+    "static/js/main.bfbe5eb3.js"
   ]
 }
